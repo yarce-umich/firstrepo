@@ -1,5 +1,5 @@
 def basic(x):
-	y = 3**x
+	y = 4**x
 
 	return y
 	print(y)
